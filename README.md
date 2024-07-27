@@ -1,3 +1,5 @@
+<img align="center"src="https://www.nuvias.com/wp-content/uploads/2019/09/github-banner.jpg"width="600"> 
+
 <h1 align="center">Hi 👋, I'm Ashvini Bodke</h1>
 <h3 align="center">A Passionate Developer & Tech Enthusiast</h3>
 <img align="right"alt="coding"width="400"src="https://miro.medium.com/v2/resize:fit:1400/1*qdAW1TjCN57h1lbuuzvchg.gif"/>
