@@ -1,4 +1,6 @@
-<img align="center"src="https://www.nuvias.com/wp-content/uploads/2019/09/github-banner.jpg"width="600"> 
+<p align = "center">
+<img width = "700" height="200" src = "https://www.nuvias.com/wp-content/uploads/2019/09/github-banner.jpg"/>
+</p>
 
 <h1 align="center">Hi 👋, I'm Ashvini Bodke</h1>
 <h3 align="center">A Passionate Developer & Tech Enthusiast</h3>
