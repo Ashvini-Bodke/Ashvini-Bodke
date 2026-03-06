@@ -6,9 +6,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ashvini-bodke&label=Profile%20views&color=0e75b6&style=flat" alt="ashvini-bodke" /> </p>
 
-- 🌱 I’m currently learning **Or Exploring New Frontiers in MERN Stack & Algorithms**
+- 🌱 I’m currently learning **Or Exploring New Frontiers in Full Stack Java & Algorithms**
 
-- 💬 Ask me about **HTML,CSS,JavaScript,ReactJs,NodeJs,MongoDB,DSA in Java.**
+- 💬 Ask me about **HTML,CSS,JavaScript,ReactJs,Mysql,SpringBoot,DSA in Java.**
 
 - 📫 How to reach me **ashvinibodke5@gmail.com**
 
