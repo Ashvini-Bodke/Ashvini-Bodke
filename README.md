@@ -10,7 +10,7 @@
 ---
 
 ### 👩‍💻 About Me
-- 🌱 Aspiring **Full Stack Java Developer** (Spring Boot, Microservices, DSA)
+- 🌱 Aspiring Full Stack Java Developer with interest in Spring Boot, Microservices and DSA
 - 💡 Passionate about building real-world web applications
 - 💬 Ask me about **Java, Spring Boot, ReactJS, MySQL, DSA in Java**
 - 📫 Reach me at: **ashvinibodke5@gmail.com**
