@@ -9,7 +9,7 @@
 
 ---
 
-- 🌱 I’m currently learning **Full Stack Java Development, Spring Boot & Advanced DSA**
+- 🌱 Aspiring **Full Stack Java Development, Spring Boot, Microservices & Advanced DSA**
 - 💬 Ask me about **Java, HTML, CSS, JavaScript, ReactJS, MySQL, Spring Boot, Hibernate, DSA in Java**
 - 📫 How to reach me: **ashvinibodke5@gmail.com**
 
